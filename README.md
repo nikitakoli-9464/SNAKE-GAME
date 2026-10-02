@@ -1,4 +1,4 @@
-🐍 SNAKE ARCADE
+🐍 SNAKE GAME
 
 A playable browser-based Snake Game developed for a college coding competition.
 
